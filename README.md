@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/lakeishia-grant
 **Self-Employed, Freelance UI/UX Designer**
 August 2019 - Current
 
-**Texas Instruments,** Product Marketing Engineer Rotation Program
+**Texas Instruments,** Product Marketing Engineer Rotation Program<br/>
 June 2017 - March 2018 Dallas, TX
 * Published an application and tech note that discusses
 replacing resistance temperature detectors (RTDs) with TI’s
@@ -23,7 +23,7 @@ team in Europe to push TI’s device to potential customers
 * Analyzed and created a PowerPoint presentation on the data
 representing our top revenue and top viewed devices
 
-**Texas Instruments, Applications Engineer Rotation Program**
+**Texas Instruments,** Applications Engineer Rotation Program<br/>
 February - June 2017 Dallas, TX
 * Soldered components onto PCB and tested PCB to verify the
 validity of the accuracy across the device
@@ -32,7 +32,7 @@ PowerPoint presentation
 * Presented PowerPoint and data at a conference in Tucson, AZ,
 and a demo device at a conference in Dallas, TX
 
-**Texas Instruments, Applications Engineer Intern**
+**Texas Instruments,** Applications Engineer Intern<br/>
 May-August 2016 Dallas, TX
 * Modified the design of a printed circuit board (PCB) to include
 LEDs and capacitors using the Altium software
@@ -54,29 +54,33 @@ August 2012 - December 2016 Rochester, NY<br/>
 
 ## Skills
 
-Research
-User Research
-User Interview
-Information Architecture
-Comparative Analysis
-Usability Testing
-Design
-Wireframing
-Prototyping
-Low/Hi-Fidelity
-Interaction Design
-Brand Design
+Research<br/>
+User Research<br/>
+User Interview<br/>
+Information Architecture<br/>
+Comparative Analysis<br/>
+Usability Testing<br/>
+
+## Design
+Wireframing<br/>
+Prototyping<br/>
+Low/Hi-Fidelity<br/>
+Interaction Design<br/>
+Brand Design<br/>
 
 ## Tools
-Sketch
-Invision
-Principle
-Adobe Illustrator
-Collaboration
-Complex problem-solving
-Storytelling
-Attention to detail
-Presentation
-Development
-HTML
-CSS
+
+Sketch<br/>
+Invision<br/>
+Principle<br/>
+Adobe Illustrator<br/>
+
+## Collaboration
+Complex problem-solving<br/>
+Storytelling<br/>
+Attention to detail<br/>
+Presentation<br/>
+
+## Development
+HTML<br/>
+CSS<br/>
