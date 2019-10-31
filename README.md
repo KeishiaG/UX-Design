@@ -12,11 +12,8 @@ LinkedIn: https://www.linkedin.com/in/lakeishia-grant
 
 **Self-Employed,** Freelance UI/UX Designer<br/>
 August 2019 - Current
-
-
-
-
-
+<br/>
+<br/>
 **Texas Instruments,** Product Marketing Engineer Rotation Program<br/>
 June 2017 - March 2018 Dallas, TX
 * Published an application and tech note that discusses
